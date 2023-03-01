@@ -131,6 +131,7 @@ body {
 
 section#inicio {
     background-color: aquamarine;
+    border-top: 2px solid rgb(250, 76, 76);
     border-bottom: 5px solid rgb(250, 76, 76);
     display: flex;
     justify-content: center;
